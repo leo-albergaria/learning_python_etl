@@ -1,7 +1,7 @@
-<p><img src="imagem" align="left" height="150px" width="150px">
-    <h1># Título</h1> 
+<p><img src="https://user-images.githubusercontent.com/63436406/129267255-6d30e537-80c2-4a32-848c-e1a0a3926a1b.png" align="left" height="150px" width="150px">
+    <h1># Fundamentos de ETL com Python</h1> 
     <p align="justify">
-    Você digitar texto aqui.
+    Processo de Extract Transform and Load (ETL) e como transformar seus dados e deixa-los prontos para seus projetos.
     </p>
 </p>      
 
